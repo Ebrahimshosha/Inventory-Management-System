@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Inventory Management System.csproj": {}
+    "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Inventory Management System.csproj": {}
   },
   "projects": {
-    "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Inventory Management System.csproj": {
+    "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Inventory Management System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Inventory Management System.csproj",
+        "projectUniqueName": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Inventory Management System.csproj",
         "projectName": "Inventory Management System",
-        "projectPath": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Inventory Management System.csproj",
+        "projectPath": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Inventory Management System.csproj",
         "packagesPath": "C:\\Users\\Ibrahim shosha\\.nuget\\packages\\",
-        "outputPath": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\obj\\",
+        "outputPath": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ibrahim shosha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,6 +61,18 @@
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
               "version": "[11.10.0, )"
+            },
+            "Hangfire.AspNetCore": {
+              "target": "Package",
+              "version": "[1.8.14, )"
+            },
+            "Hangfire.Core": {
+              "target": "Package",
+              "version": "[1.8.14, )"
+            },
+            "Hangfire.SqlServer": {
+              "target": "Package",
+              "version": "[1.8.14, )"
             },
             "MailKit": {
               "target": "Package",

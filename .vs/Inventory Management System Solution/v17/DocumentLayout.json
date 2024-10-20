@@ -1,117 +1,77 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\.Net Project\\Inventory Management System Solution\\",
+  "WorkspaceRootPath": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\transactionhistoryreportendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\transactionhistoryreportendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\transactionhistoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\transactionhistoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\queries\\transactionhistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\queries\\transactionhistoryquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\transactionhistoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\transactionhistoryresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\transactionhistory\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\reporterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\reporterrors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\common\\sevices\\lowstockservice\\notifylowstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\common\\sevices\\lowstockservice\\notifylowstock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\extensions\\applicationserviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\inventorytransactions\\transferstock\\commands\\transferstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\inventorytransactions\\transferstock\\commands\\transferstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\common\\emailsenderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\common\\emailsenderhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\lowstockreport\\queries\\lowstockquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\lowstockreport\\queries\\lowstockquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\features\\account\\resendverificationcode\\commands\\sendverificationotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\account\\resendverificationcode\\commands\\sendverificationotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\reporting\\lowstockreport\\lowstockreportendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\reporting\\lowstockreport\\lowstockreportendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\common\\middlewares\\transactionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\common\\middlewares\\transactionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\inventorytransactions\\transferstock\\transferstockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\inventorytransactions\\transferstock\\transferstockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\addstockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\addstockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\commands\\addstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\commands\\addstockcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\entities\\stocktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\stocktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\inventorytransactions\\removestock\\removestockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\inventorytransactions\\removestock\\removestockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\inventorytransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\repository\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\addstockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\addstockendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\entities\\stocktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\stocktransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\stocktrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\stocktrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\features\\inventorytransactions\\addstock\\stocktrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\common\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory management system\\verticalslicing\\data\\entities\\warehouseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|e:\\.net project\\inventory management system solution\\inventory-management-system\\inventory management system\\verticalslicing\\data\\entities\\warehouseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{280A2E0E-AAF4-4791-9ECC-08B2C82E31BB}|Inventory Management System\\Inventory Management System.csproj|solutionrelative:inventory management system\\verticalslicing\\data\\entities\\warehouseproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -122,17 +82,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Program.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Program.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\Program.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Program.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Program.cs",
               "RelativeToolTip": "Inventory Management System\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T23:25:22.944Z",
               "IsPinned": true,
@@ -140,11 +100,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 9,
               "Title": "ApplicationDBContext.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Context\\ApplicationDBContext.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Context\\ApplicationDBContext.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Context\\ApplicationDBContext.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Context\\ApplicationDBContext.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Context\\ApplicationDBContext.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Context\\ApplicationDBContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,13 +114,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "GlobalUsing.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\GlobalUsing.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\GlobalUsing.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\GlobalUsing.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\GlobalUsing.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\GlobalUsing.cs",
               "RelativeToolTip": "Inventory Management System\\GlobalUsing.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAAAD4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T12:50:49.519Z",
               "IsPinned": true,
@@ -168,13 +128,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 6,
               "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\appsettings.json",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\appsettings.json",
               "RelativeDocumentMoniker": "Inventory Management System\\appsettings.json",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\appsettings.json",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\appsettings.json",
               "RelativeToolTip": "Inventory Management System\\appsettings.json",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-17T12:06:53.281Z",
               "IsPinned": true,
@@ -182,13 +142,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "ApplicationServiceExtensions.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Extensions\\ApplicationServiceExtensions.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\Extensions\\ApplicationServiceExtensions.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\Extensions\\ApplicationServiceExtensions.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\Extensions\\ApplicationServiceExtensions.cs",
               "RelativeToolTip": "Inventory Management System\\Extensions\\ApplicationServiceExtensions.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAADcAAAAnAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T10:58:04.1Z",
               "IsPinned": true,
@@ -196,13 +156,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "GenericRepository.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Repository\\Repository\\GenericRepository.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Repository\\Repository\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Repository\\Repository\\GenericRepository.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Repository\\Repository\\GenericRepository.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Repository\\Repository\\GenericRepository.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Repository\\Repository\\GenericRepository.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAAAFYAAAAJAAAA",
+              "ViewState": "AQIAACYAAAAAAAAAAABOwFYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-17T13:02:11.457Z",
               "IsPinned": true,
@@ -210,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 14,
               "Title": "BaseController.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Common\\BaseController.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Common\\BaseController.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Common\\BaseController.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Common\\BaseController.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Common\\BaseController.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Common\\BaseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -228,11 +188,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 15,
               "Title": "Product.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Product.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Product.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\Product.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Product.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Product.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -243,9 +203,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "InventoryTransaction.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\InventoryTransaction.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\InventoryTransaction.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\InventoryTransaction.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\InventoryTransaction.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\InventoryTransaction.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\InventoryTransaction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwAkAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -254,11 +214,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 16,
               "Title": "TransactionType.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\TransactionType.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\TransactionType.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\TransactionType.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\TransactionType.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\TransactionType.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\TransactionType.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -267,11 +227,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 11,
               "Title": "StockTransfer.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\StockTransfer.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\StockTransfer.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\StockTransfer.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\StockTransfer.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\StockTransfer.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\StockTransfer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -280,11 +240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 12,
               "Title": "Warehouse.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Warehouse.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Warehouse.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\Warehouse.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Warehouse.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\Warehouse.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\Warehouse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,11 +253,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 17,
               "Title": "WarehouseProduct.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\WarehouseProduct.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\WarehouseProduct.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\WarehouseProduct.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\WarehouseProduct.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Data\\Entities\\WarehouseProduct.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Data\\Entities\\WarehouseProduct.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -306,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "AddStockEndPoint.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\AddStockEndPoint.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\AddStockEndPoint.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\AddStockEndPoint.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\AddStockEndPoint.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\AddStockEndPoint.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\AddStockEndPoint.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -319,11 +279,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 13,
               "Title": "StocktRequest.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\StocktRequest.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\StocktRequest.cs",
               "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\StocktRequest.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\StocktRequest.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\StocktRequest.cs",
               "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\StocktRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -332,171 +292,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "RemoveStockEndPoint.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\RemoveStock\\RemoveStockEndPoint.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\RemoveStock\\RemoveStockEndPoint.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\RemoveStock\\RemoveStockEndPoint.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\RemoveStock\\RemoveStockEndPoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "DocumentIndex": 4,
+              "Title": "EmailSenderHelper.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Common\\EmailSenderHelper.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Common\\EmailSenderHelper.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Common\\EmailSenderHelper.cs",
+              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Common\\EmailSenderHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T08:53:07.415Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "AddStockCommand.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\Commands\\AddStockCommand.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\Commands\\AddStockCommand.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\Commands\\AddStockCommand.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\AddStock\\Commands\\AddStockCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T07:36:14.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "TransferStockCommand.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\Commands\\TransferStockCommand.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\Commands\\TransferStockCommand.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\Commands\\TransferStockCommand.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\Commands\\TransferStockCommand.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T09:21:25.689Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "TransferStockEndPoint.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\TransferStockEndPoint.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\TransferStockEndPoint.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\TransferStockEndPoint.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\InventoryTransactions\\TransferStock\\TransferStockEndPoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T09:34:52.206Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "LowStockQuery.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\Queries\\LowStockQuery.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\Queries\\LowStockQuery.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\Queries\\LowStockQuery.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\Queries\\LowStockQuery.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T11:00:09.466Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "LowStockReportEndPoint.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\LowStockReportEndPoint.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\LowStockReportEndPoint.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\LowStockReportEndPoint.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\LowStockReport\\LowStockReportEndPoint.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T11:04:56.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "TransactionMiddleware.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Common\\Middlewares\\TransactionMiddleware.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Common\\Middlewares\\TransactionMiddleware.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Common\\Middlewares\\TransactionMiddleware.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Common\\Middlewares\\TransactionMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T11:37:11.918Z",
+              "WhenOpened": "2024-10-20T17:50:44.358Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "TransactionHistoryQuery.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\Queries\\TransactionHistoryQuery.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\Queries\\TransactionHistoryQuery.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\Queries\\TransactionHistoryQuery.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\Queries\\TransactionHistoryQuery.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAwwB0AAABDAAAA",
+              "Title": "NotifyLowStock.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Common\\Sevices\\LowStockService\\NotifyLowStock.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Common\\Sevices\\LowStockService\\NotifyLowStock.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Common\\Sevices\\LowStockService\\NotifyLowStock.cs",
+              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Common\\Sevices\\LowStockService\\NotifyLowStock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T13:56:57.438Z",
+              "WhenOpened": "2024-10-20T20:14:10.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReportErrors.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\ReportErrors.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\ReportErrors.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\ReportErrors.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\ReportErrors.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 5,
+              "Title": "SendVerificationOTP.cs",
+              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Features\\Account\\ResendVerificationCode\\Commands\\SendVerificationOTP.cs",
+              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Account\\ResendVerificationCode\\Commands\\SendVerificationOTP.cs",
+              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory-Management-System\\Inventory Management System\\VerticalSlicing\\Features\\Account\\ResendVerificationCode\\Commands\\SendVerificationOTP.cs",
+              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Account\\ResendVerificationCode\\Commands\\SendVerificationOTP.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:16:19.876Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TransactionHistoryReportEndPoint.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryReportEndPoint.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryReportEndPoint.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryReportEndPoint.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryReportEndPoint.cs",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAQAAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:19:16.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TransactionHistoryRequest.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryRequest.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryRequest.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryRequest.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryRequest.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:21:43.618Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TransactionHistoryResponse.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryResponse.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryResponse.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryResponse.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\TransactionHistoryResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:27:53.179Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MapperProfile.cs",
-              "DocumentMoniker": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\MapperProfile.cs",
-              "RelativeDocumentMoniker": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\MapperProfile.cs",
-              "ToolTip": "E:\\.Net Project\\Inventory Management System Solution\\Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\MapperProfile.cs",
-              "RelativeToolTip": "Inventory Management System\\VerticalSlicing\\Features\\Reporting\\TransactionHistory\\MapperProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABCAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-20T14:31:53.168Z",
+              "WhenOpened": "2024-10-20T20:17:22.48Z",
               "EditorCaption": ""
             }
           ]

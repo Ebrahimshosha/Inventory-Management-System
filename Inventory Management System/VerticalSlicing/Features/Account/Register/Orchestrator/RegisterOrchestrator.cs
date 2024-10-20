@@ -1,6 +1,7 @@
 ﻿using FoodApp.Api.VerticalSlicing.Common;
 using FoodApp.Api.VerticalSlicing.Features.Account.Register.Commands;
 using FoodApp.Api.VerticalSlicing.Features.Account.ResendVerificationCode.Commands;
+using Hangfire;
 using MediatR;
 
 namespace FoodApp.Api.VerticalSlicing.Features.Account.Register.Orchestrator
@@ -29,6 +30,7 @@ namespace FoodApp.Api.VerticalSlicing.Features.Account.Register.Orchestrator
             }
 
             await _mediator.Send(new SendVerificationOTP(request.Email));
+            //BackgroundJob.Enqueue(() => new SendVerificationOTP(request.Email));
 
             return Result.Success(true);
         }

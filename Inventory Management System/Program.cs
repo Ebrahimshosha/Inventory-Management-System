@@ -1,3 +1,6 @@
+using Hangfire;
+using Inventory_Management_System.VerticalSlicing.Common.Sevices.LowStockService;
+
 namespace Inventory_Management_System;
 
 public class Program
@@ -47,6 +50,15 @@ public class Program
         app.UseStaticFiles();
 
         app.UseHttpsRedirection();
+
+        app.UseHangfireDashboard("/jobs");
+
+        var scopeFactory = app.Services.GetRequiredService<IServiceScopeFactory>();
+
+        //using var scope = scopeFactory.CreateScope();
+        var notificationService = scope.ServiceProvider.GetRequiredService<ILowStockService>();
+
+        RecurringJob.AddOrUpdate<ILowStockService>("Notify Low Stock", job => job.CheckAndNotifyLowStockAsync(), Cron.Daily);
 
         app.UseAuthentication();
         app.UseAuthorization();

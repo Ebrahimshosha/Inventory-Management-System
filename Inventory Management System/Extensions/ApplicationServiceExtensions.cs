@@ -1,4 +1,6 @@
 ﻿
+using Hangfire;
+using Inventory_Management_System.VerticalSlicing.Common.Sevices.LowStockService;
 using System.Reflection;
 
 namespace FoodApp.Api.Extensions
@@ -18,6 +20,8 @@ namespace FoodApp.Api.Extensions
 
             services.AddAuthConfig(configuration);
 
+            services.AddBackgroundJobsConfig(configuration);
+
             services.AddDbContext<ApplicationDBContext>(options =>
             {
                 options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"))
@@ -28,12 +32,12 @@ namespace FoodApp.Api.Extensions
             services.Configure<MailSettings>(configuration.GetSection("MailSettings"));
 
             services.AddScoped<IUnitOfWork, UnitOfWork>();
+            services.AddScoped<ILowStockService, LowStockService>();
             services.AddScoped<UserState>();
             services.AddScoped<RequestParameters>();
             services.AddScoped<ControllerParameters>();
             services.AddTransient<EmailSenderHelper>();
-            services.AddSingleton<RabbitMQPublisherService>();
-            services.AddSingleton<IHostedService, RabbitMQConsumerService>();
+            
 
             // services.AddAutoMapper(typeof(MappingProfiles));
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
@@ -131,5 +135,18 @@ namespace FoodApp.Api.Extensions
             return services;
         }
 
+        private static IServiceCollection AddBackgroundJobsConfig(this IServiceCollection services,
+       IConfiguration configuration)
+        {
+            services.AddHangfire(config => config
+                .SetDataCompatibilityLevel(CompatibilityLevel.Version_180)
+                .UseSimpleAssemblyNameTypeSerializer()
+                .UseRecommendedSerializerSettings()
+                .UseSqlServerStorage(configuration.GetConnectionString("HangfireConnection")));
+
+            services.AddHangfireServer();
+
+            return services;
+        }
     }
 }

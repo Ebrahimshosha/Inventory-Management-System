@@ -2,7 +2,6 @@
 
 global using FoodApp.Api.VerticalSlicing.Features.Common;
 global using FoodApp.Api.VerticalSlicing.Features.Common.Helper;
-global using FoodApp.Api.VerticalSlicing.Common.RabbitMQServices;
 global using FoodApp.Api.VerticalSlicing.Data.Context;
 global using FoodApp.Api.VerticalSlicing.Data.Repository.Interface;
 global using FoodApp.Api.VerticalSlicing.Data.Repository.Repository;
